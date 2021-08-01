@@ -1,0 +1,51 @@
+{
+  "id": 1,
+  "imgs": [
+    "https://s1.uphinh.org/2021/06/22/b482fcceee771b294266.jpg",
+    "https://s1.uphinh.org/2021/06/22/DAC.jpg",
+    "https://s1.uphinh.org/2021/06/22/headphone.jpg",
+    "https://uphinh.org/image/9XaUNN",
+    "https://uphinh.org/image/9XaWf1",
+    "https://uphinh.org/image/9XaRAZ",
+    "https://uphinh.org/image/9XawDb",
+    "https://uphinh.org/image/9XaAnD"
+  ],
+  "attribute": {
+    "name": "Meridian Prime High Current Power Supply for Prime HP Amp. / DAC",
+    "oldPrice": 19090000,
+    "price": 14990000,
+    "new": 70,
+    "status": "Còn hàng",
+    "shipFee": 0,
+    "tag": {
+      "hot": false,
+      "freeShip": true,
+      "sale": true
+    },
+    "categoryID": 1
+  },
+  "info": {
+    "description": [
+      {
+        "title": "series",
+        "content": "NA"
+      },
+      {
+        "title": "tình trạng sản phẩm",
+        "content": "chúng tôi đã kiểm tra và dùng thử không có vấn đề gì"
+      },
+      {
+        "title": "đánh giá",
+        "content": "Chiếc tai nghe này có chất âm trong trẻo mặc dù thiên thướng là nhưng rất cân bằng ở các dải âm khác"
+      },
+      {
+        "title": "ghi chú",
+        "content": "Sản phẩm đã mua không thể hoàn lại tiền"
+      }
+    ],
+    "specification": "When you run this code, you’ll be given a warning that a key should be provided for list items. A “key” is a special string attribute you need to include when creating lists of elements. We’ll discuss why it’s important in the next section.",
+    "guarantee": "Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity:"
+  },
+  "createdAt": 13,
+  "updatedAt": 13
+}
